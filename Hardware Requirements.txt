@@ -1,0 +1,9 @@
+Hardware Requirements:
+
+a)Processor: A multi-core processor with at least 2 GHz clock speed is recommended for optimal performance.
+
+b)RAM: Minimum of 4 GB RAM is required to run the code smoothly. However, higher RAM capacity is beneficial for handling larger datasets.
+
+c)Storage: Sufficient storage space is needed to store the code files, libraries, and datasets. Ensure you have adequate free disk space.
+
+d)Internet Connection: An active internet connection is necessary to fetch real-time stock data using Yfinance and to download NLTK data for sentiment analysis.
