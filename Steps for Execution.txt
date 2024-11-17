@@ -1,0 +1,11 @@
+Steps for Execution
+-------------------
+
+1. Open the project folder in vscode or any other editor
+2. Run the project file
+3. Open terminal or command prompt and change the directory to python_files
+4. Now write the command ' streamlit run "filename" '
+5. Our server will run and new window opens in browser.
+6. Click "Upload" button and upload bird image in jpg or png or jpeg format
+7. Click "Predict" button to get bird name
+8. Click "Information" button to get bird information (location, size, colour)
