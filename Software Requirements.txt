@@ -1,0 +1,7 @@
+Software Resources Required 
+1. Python - https://www.python.org/downloads/
+2. Numpy - https://pypi.org/project/numpy/
+3. Keras - https://pypi.org/project/keras/
+4. Tensorflow - https://pypi.org/project/tensorflow/
+5. Streamlit - https://pypi.org/project/streamlit/
+6. Matplotlib -  https://pypi.org/project/matplotlib/
